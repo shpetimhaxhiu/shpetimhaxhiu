@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shpetimhaxhiu
+- 👀 I’m interested in Programming, Automation and AI
+- 🌱 I’m currently learning different topics on Coding and Project Management
+- 💞️ I’m looking to collaborate on open-source projects
+- 📫 You can reach me by email shpetim.h[at]gmail.com
