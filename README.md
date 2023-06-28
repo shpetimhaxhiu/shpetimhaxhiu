@@ -1,1 +1,39 @@
-![Metrics](https://metrics.lecoq.io/shpetimhaxhiu?template=terminal&base.indepth=true&base.hireable=true&repositories.forks=true&users.ignored=&isocalendar=1&languages=1&lines=1&topics=1&stars=1&habits=1&achievements=1&calendar=1&notable=1&activity=1&code=1&introduction=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.ignored=html&languages.limit=4&languages.threshold=20%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&topics=false&topics.mode=icons&topics.sort=stars&topics.limit=5&stars=false&stars.limit=2&habits=false&habits.from=220&habits.days=14&habits.facts=true&habits.charts=true&habits.charts.type=chartist&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&introduction=false&introduction.title=true&calendar=false&calendar.limit=1&achievements=false&achievements.threshold=S&achievements.secrets=true&achievements.display=detailed&achievements.limit=6&notable=false&notable.from=all&notable.repositories=false&notable.indepth=true&notable.types=commit&notable.self=true&activity=false&activity.limit=8&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&code=false&code.lines=8&code.load=400&code.days=3&code.visibility=all&gists=false&config.timezone=Europe%2FBudapest&config.twemoji=true&config.octicon=true&config.display=columns)
+# Hello, World! I'm Shpëtim a.k.a Pito 👋
+
+Welcome to my GitHub playground! As a full-stack developer with a knack for coding and experimenting with new technologies, I'm passionate about all things AI. My journey here is fueled by the desire to create impactful and innovative apps powered by AI. With a special interest in leveraging GPT technologies, I aim to bring creativity and accountability into the tech space.
+
+## 🚀 What I'm Currently Learning
+
+- Enhancing my expertise in AI technologies
+- Going deeper into natural language processing
+- Exploring the nuances of Large Language Models
+
+## 🎯 I'm Looking to Collaborate On
+
+- Open-source projects related to AI and ML
+- Innovative web apps or SaaS platforms that can change lives
+
+## 💡 What I Do
+
+- End-to-end application development, from setting up servers to backend and frontend coding
+- Constantly experimenting and evolving as an expert in AI/ML
+- Taking app development ideas from design to implementation, with an emphasis on building, releasing, and publishing successful and profitable web apps/SaaS platforms
+- Always learning and polishing my skills, currently with a focus on GPT and chatGPT
+
+## 📮 How to Reach Me
+
+- LinkedIn: [Shpëtim's LinkedIn profile](https://linkedin.com/in/shpetimhaxhiu)
+- Email: shpetim.h@gmail.com
+
+## 🎈 Fun Facts
+
+- First rendezvous with a computer at 11. Result? One trip to the tech service. The only one to this day.
+- At 12, my playground was setting up wireless networks in my neighborhood.
+- Turned into a friendly neighborhood "network explorer" at 13.
+- Coding since 13. It's a love story that even outshines Twilight.
+- So engrossed in coding, I sometimes find myself doing it in dreams. A never-ending hackathon, right?
+- If I ever go missing, you might want to check the corners of the digital world!
+
+Living the coding life and loving it! Let's enjoy this roller coaster together!
+
+Thanks for stopping by, and feel free to connect or drop me a line!
